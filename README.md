@@ -2,7 +2,7 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Hakan Bilgi
 
-<font color="pink"> 🐱‍🏍 I'm Biologist but I find myself in software. </font>
+<font color="pink">🦠 I'm Biologist but I find myself in software. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
